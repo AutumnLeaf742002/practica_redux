@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta Básica",
+        "price": 1160,
+        "description": "Camiseta de algodón 100% en varios colores.",
+        "stock": "120"
+    },
+    {
+        "id": 2,
+        "name": "Pantalón Jeans",
+        "price": 2314,
+        "description": "Jeans azul oscuro de corte recto.",
+        "stock": "75"
+    },
+    {
+        "id": 3,
+        "name": "Zapatillas Running",
+        "price": 3480,
+        "description": "Zapatillas deportivas con suela antideslizante.",
+        "stock": "50"
+    },
+    {
+        "id": 4,
+        "name": "Mochila Escolar",
+        "price": 1740,
+        "description": "Mochila resistente con múltiples compartimentos.",
+        "stock": "30"
+    },
+    {
+        "id": 5,
+        "name": "Auriculares Bluetooth",
+        "price": 1450,
+        "description": "Auriculares inalámbricos con micrófono incorporado.",
+        "stock": "85"
+    },
+    {
+        "id": 6,
+        "name": "Botella Térmica",
+        "price": 898,
+        "description": "Botella de acero inoxidable que mantiene la temperatura.",
+        "stock": "100"
+    },
+    {
+        "id": 7,
+        "name": "Reloj Digital",
+        "price": 2610,
+        "description": "Reloj resistente al agua con alarma y cronómetro.",
+        "stock": "40"
+    },
+    {
+        "id": 8,
+        "name": "Teclado Mecánico",
+        "price": 4060,
+        "description": "Teclado con retroiluminación RGB y switches azules.",
+        "stock": "20"
+    },
+    {
+        "id": 9,
+        "name": "Lámpara LED de Escritorio",
+        "price": 1320,
+        "description": "Lámpara con brazo flexible y control táctil.",
+        "stock": "60"
+    },
+    {
+        "id": 10,
+        "name": "Cuaderno A5",
+        "price": 290,
+        "description": "Cuaderno de 80 hojas con tapa dura.",
+        "stock": "200"
+    },
+    {
+        "id": 11,
+        "name": "Camiseta Deportiva",
+        "price": 1450,
+        "description": "Camiseta transpirable para entrenamientos.",
+        "stock": "90"
+    },
+    {
+        "id": 12,
+        "name": "Shorts de Playa",
+        "price": 1160,
+        "description": "Shorts con diseño veraniego y bolsillos.",
+        "stock": "70"
+    },
+    {
+        "id": 13,
+        "name": "Sudadera con Capucha",
+        "price": 2610,
+        "description": "Sudadera cómoda para climas fríos.",
+        "stock": "60"
+    },
+    {
+        "id": 14,
+        "name": "Zapatos de Cuero",
+        "price": 4060,
+        "description": "Zapatos elegantes para oficina.",
+        "stock": "25"
+    },
+    {
+        "id": 15,
+        "name": "Cartera de Cuero",
+        "price": 1450,
+        "description": "Cartera compacta con múltiples compartimentos.",
+        "stock": "40"
+    },
+    {
+        "id": 16,
+        "name": "Bufanda de Lana",
+        "price": 870,
+        "description": "Bufanda suave ideal para invierno.",
+        "stock": "50"
+    },
+    {
+        "id": 17,
+        "name": "Sombrero Panamá",
+        "price": 1160,
+        "description": "Sombrero clásico de verano.",
+        "stock": "30"
+    },
+    {
+        "id": 18,
+        "name": "Sandalias Casual",
+        "price": 1450,
+        "description": "Sandalias ligeras para el día a día.",
+        "stock": "65"
+    },
+    {
+        "id": 19,
+        "name": "Gorra Ajustable",
+        "price": 580,
+        "description": "Gorra de algodón con velcro ajustable.",
+        "stock": "90"
+    },
+    {
+        "id": 20,
+        "name": "Lentes de Sol",
+        "price": 1740,
+        "description": "Lentes con protección UV y estuche.",
+        "stock": "75"
+    },
+    {
+        "id": 21,
+        "name": "Cargador Portátil",
+        "price": 2030,
+        "description": "Power bank de 10000mAh.",
+        "stock": "100"
+    },
+    {
+        "id": 22,
+        "name": "Cable USB-C",
+        "price": 580,
+        "description": "Cable resistente de carga rápida.",
+        "stock": "150"
+    },
+    {
+        "id": 23,
+        "name": "Mouse Inalámbrico",
+        "price": 1450,
+        "description": "Mouse ergonómico con batería recargable.",
+        "stock": "70"
+    },
+    {
+        "id": 24,
+        "name": "Funda para Celular",
+        "price": 580,
+        "description": "Funda protectora de silicona.",
+        "stock": "110"
+    },
+    {
+        "id": 25,
+        "name": "Altavoz Bluetooth",
+        "price": 2610,
+        "description": "Altavoz portátil con sonido envolvente.",
+        "stock": "55"
+    },
+    {
+        "id": 26,
+        "name": "Tablet 8 pulgadas",
+        "price": 9860,
+        "description": "Tablet ligera con Android 13.",
+        "stock": "20"
+    },
+    {
+        "id": 27,
+        "name": "Monitor 24 pulgadas",
+        "price": 14500,
+        "description": "Monitor LED Full HD para oficina o gaming.",
+        "stock": "10"
+    },
+    {
+        "id": 28,
+        "name": "Silla Ergonómica",
+        "price": 17400,
+        "description": "Silla ajustable para escritorio con soporte lumbar.",
+        "stock": "15"
+    },
+    {
+        "id": 29,
+        "name": "Escritorio Plegable",
+        "price": 8700,
+        "description": "Escritorio compacto y resistente.",
+        "stock": "20"
+    },
+    {
+        "id": 30,
+        "name": "Lámpara de Noche",
+        "price": 1160,
+        "description": "Lámpara LED con luz cálida y regulable.",
+        "stock": "40"
+    },
+    {
+        "id": 31,
+        "name": "Ventilador USB",
+        "price": 870,
+        "description": "Mini ventilador ideal para oficina.",
+        "stock": "80"
+    },
+    {
+        "id": 32,
+        "name": "Plancha de Vapor",
+        "price": 2900,
+        "description": "Plancha con control de temperatura y rociador.",
+        "stock": "35"
+    },
+    {
+        "id": 33,
+        "name": "Olla Antiadherente",
+        "price": 4060,
+        "description": "Olla con tapa de vidrio y mango ergonómico.",
+        "stock": "45"
+    },
+    {
+        "id": 34,
+        "name": "Set de Cubiertos",
+        "price": 2030,
+        "description": "Juego de 24 piezas de acero inoxidable.",
+        "stock": "60"
+    },
+    {
+        "id": 35,
+        "name": "Juego de Sábanas",
+        "price": 3480,
+        "description": "Sábanas de microfibra para cama matrimonial.",
+        "stock": "25"
+    },
+    {
+        "id": 36,
+        "name": "Almohada Viscoelástica",
+        "price": 2610,
+        "description": "Almohada con memoria y soporte cervical.",
+        "stock": "50"
+    },
+    {
+        "id": 37,
+        "name": "Organizador de Escritorio",
+        "price": 1160,
+        "description": "Organizador de madera con divisiones.",
+        "stock": "45"
+    },
+    {
+        "id": 38,
+        "name": "Cuadro Decorativo",
+        "price": 1740,
+        "description": "Cuadro con diseño minimalista.",
+        "stock": "30"
+    },
+    {
+        "id": 39,
+        "name": "Set de Velas Aromáticas",
+        "price": 1450,
+        "description": "Velas con fragancias florales y frutales.",
+        "stock": "60"
+    },
+    {
+        "id": 40,
+        "name": "Difusor de Aromas",
+        "price": 2030,
+        "description": "Difusor ultrasónico con luces LED.",
+        "stock": "50"
+    },
+    {
+        "id": 41,
+        "name": "Juego de Tazas",
+        "price": 1160,
+        "description": "Set de 4 tazas de cerámica decoradas.",
+        "stock": "80"
+    },
+    {
+        "id": 42,
+        "name": "Bolso Tote",
+        "price": 1740,
+        "description": "Bolso de lona amplio y resistente.",
+        "stock": "55"
+    },
+    {
+        "id": 43,
+        "name": "Cinturón de Cuero",
+        "price": 1450,
+        "description": "Cinturón clásico con hebilla metálica.",
+        "stock": "70"
+    },
+    {
+        "id": 44,
+        "name": "Set de Maquillaje",
+        "price": 2900,
+        "description": "Kit completo con estuche, sombras y labiales.",
+        "stock": "35"
+    },
+    {
+        "id": 45,
+        "name": "Espejo con Luz",
+        "price": 1740,
+        "description": "Espejo de tocador con iluminación LED.",
+        "stock": "40"
+    },
+    {
+        "id": 46,
+        "name": "Toalla de Microfibra",
+        "price": 870,
+        "description": "Toalla absorbente para deporte o viaje.",
+        "stock": "100"
+    },
+    {
+        "id": 47,
+        "name": "Juego de Destornilladores",
+        "price": 1160,
+        "description": "Set con cabezales intercambiables.",
+        "stock": "50"
+    },
+    {
+        "id": 48,
+        "name": "Linterna Recargable",
+        "price": 1740,
+        "description": "Linterna LED con batería de larga duración.",
+        "stock": "60"
+    },
+    {
+        "id": 49,
+        "name": "Balón de Fútbol",
+        "price": 2030,
+        "description": "Balón oficial tamaño 5, costuras reforzadas.",
+        "stock": "40"
+    },
+    {
+        "id": 50,
+        "name": "Colchoneta de Yoga",
+        "price": 2900,
+        "description": "Superficie antideslizante y fácil de enrollar.",
+        "stock": "30"
+    }
+]

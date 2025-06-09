@@ -1,0 +1,35 @@
+user:
+    id
+    name
+    lastname
+    user
+    password
+    mail
+    rol
+
+product:
+    id
+    name
+    description
+    price
+    stock
+
+cart:
+    products_count
+    products>
+        id
+        name
+        count
+        price
+        subtotal (count*price)
+    total
+
+sesion:
+    logged
+    user>
+        id
+        name
+        lastname
+        user
+        mail
+        rol

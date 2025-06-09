@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+/* *{
+    border: 1px solid black;
+} */
+
+.table__custom{
+    @apply bg-white rounded-sm overflow-hidden mx-auto mt-4 min-w-[80vw];
+}
+.table__custom thead th{
+    @apply bg-neutral-800 text-white p-2;
+}
+.table__custom tbody td{
+    @apply p-2 border-b border-neutral-300 text-center;
+}
