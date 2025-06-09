@@ -2,8 +2,9 @@ import { useSelector } from "react-redux"
 
 export const useProducts = () => {
 
+    const products = useSelector(state => state.product.products) ?? [];
+
     const getProducts = (search, price, stock) => {
-        const products = useSelector(state => state.product.products) ?? [];
 
         return products.filter(product => {
             

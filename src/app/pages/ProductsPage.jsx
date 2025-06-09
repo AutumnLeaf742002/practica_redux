@@ -8,6 +8,7 @@ import { Search, Select, ProductTable } from "../components"
 
 export const ProductsPage = () => {
 
+    const navigate = useNavigate()
     const [searchParams] = useSearchParams()
     const { search, price, stock, onChange } = useForm({
         search: searchParams.get("s") ?? "",
@@ -15,9 +16,9 @@ export const ProductsPage = () => {
         stock: ""
     })
     const { getProducts } = useProducts()
-    const navigate = useNavigate()
 
     const products = getProducts(searchParams.get("s"), searchParams.get("p"), searchParams.get("st"))
+    products?.sort((a,b) => b.id - a.id)
 
     const onSearch = (e) => {
 

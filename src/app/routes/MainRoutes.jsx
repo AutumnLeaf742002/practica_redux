@@ -1,6 +1,6 @@
 import { Navigate, Route, Routes } from "react-router"
 
-import { ProductsPage, UsersPage, CartPage, PerfilPage } from "../pages"
+import { ProductsPage, UsersPage, CartPage, PerfilPage, NewProductPage, EditProductPage } from "../pages"
 
 export const MainRoutes = () => {
     return (
@@ -10,6 +10,8 @@ export const MainRoutes = () => {
             <Route path="/users" element={<UsersPage />} />
             <Route path="/cart" element={<CartPage />} />
             <Route path="/perfil" element={<PerfilPage />} />
+            <Route path="/add" element={<NewProductPage />} />
+            <Route path="/edit/:id" element={<EditProductPage />} />
         </Routes>
     )
 }

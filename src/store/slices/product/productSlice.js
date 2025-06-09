@@ -24,18 +24,18 @@ export const productSlice = createSlice({
         },
 
         updateProduct: (state, action) => {
-            
-            const updatedProduct = action.payload;
-            const index = state.products.findIndex(p => p.id === updatedProduct.id);
+
+            const updatedProduct = action.payload
+            const index = state.products.findIndex(p => p.id == updatedProduct.id)
 
             if (index !== -1) {
                 state.products[index] = {
                     ...state.products[index],
                     ...updatedProduct
-                };
+                }
             }
         }
     }
 })
 
-export const { addProduct, deleteProduct, updatedProduct } = productSlice.actions
+export const { addProduct, deleteProduct, updateProduct } = productSlice.actions
